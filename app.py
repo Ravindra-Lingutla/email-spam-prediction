@@ -60,4 +60,4 @@ def new():
 
     return render_template("index.html")
 
-app.run()
+
